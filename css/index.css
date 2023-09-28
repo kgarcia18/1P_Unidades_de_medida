@@ -1,0 +1,12 @@
+.caja {
+    width: 30rem;
+    height: 20rem;
+    background: red;
+    padding: 5rem;
+}
+
+.caja2 {
+    width: 20rem;
+    height: 10rem;
+    background-color: green;
+}
